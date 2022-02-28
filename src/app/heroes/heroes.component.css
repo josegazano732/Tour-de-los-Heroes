@@ -64,3 +64,22 @@
   .heroes .name {
     align-self: center;
   }
+
+  .detalle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(179, 255, 0, 0.445);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.titulo{
+  display:flex;
+  text-align: center;
+  margin: 10px;
+
+}
